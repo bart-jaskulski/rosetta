@@ -1,0 +1,16 @@
+{
+    "name": "bjaskulski/php",
+    "authors": [
+        {
+            "name": "Bart Jaskulski",
+            "email": "bjaskulski@protonmail.com"
+        }
+    ],
+    "autoload": {
+      "classmap": [
+        "src",
+        "tests"
+      ]
+    },
+    "require": {}
+}
