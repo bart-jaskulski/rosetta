@@ -12,5 +12,8 @@
         "tests"
       ]
     },
-    "require": {}
+    "require": {},
+    "scripts": {
+      "test": "./tools/phpunit ./tests --bootstrap vendor/autoload.php"
+    }
 }
